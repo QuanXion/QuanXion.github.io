@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Quanxin Wang**, a senior undergraduate student majoring in **Communication Engineering** at the [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) and the [University of Glasgow](https://www.gla.ac.uk/) (Glasgow College, UESTC). 
+I am **Quanxin Wang**, a senior undergraduate student majoring in **Communication Engineering** at the [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) (Glasgow College, UESTC) and the [University of Glasgow](https://www.gla.ac.uk/) (James Watt School of Engineering, University of Glasgow). 
 I am an undergraduate research assistant in [Prof. Kang Zhao](https://sites.google.com/site/zhaokanghomepage/)'s group, working on graph machine learning especially on understanding the geometric properties of relational data and developing efficient, transferable models for cross-domain graph learning.  
 I am currently pursuing a dual B.Eng. degree, expected to graduate in June 2027 and seeking Ph.D. opportunities.
 
