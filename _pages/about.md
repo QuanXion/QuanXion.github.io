@@ -57,5 +57,5 @@ I am currently pursuing a dual B.Eng. degree, expected to graduate in June 2027 
 
 ## Contact
 
-- **Email:** [tranciewang@gmail.com](tranciewang@gmail.com)  
+- **Email:** [tranciewang@gmail.com](mailto:tranciewang@gmail.com)  
 
