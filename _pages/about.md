@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Quanxin Wang**, a senior undergraduate student majoring in **Communication Engineering** at the [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) and the [University of Glasgow](https://www.gla.ac.uk/) (Glasgow College, UESTC). I am an undergraduate research assistant in [Prof. Kang Zhao](https://zhaokang.site/)'s group, working on graph machine learning and graph foundation models. I am currently pursuing a dual B.Eng. degree, expected to graduate in June 2027.
-
-My research interests lie in **graph machine learning**, particularly **graph foundation models (GFMs)**, **graph prompt learning**, and **graph representation learning**. I am passionate about understanding the geometric properties of relational data and developing efficient, transferable models for cross-domain graph learning. I am currently applying for Ph.D. programs in the United States.
+I am **Quanxin Wang**, a senior undergraduate student majoring in **Communication Engineering** at the [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) and the [University of Glasgow](https://www.gla.ac.uk/) (Glasgow College, UESTC). I am an undergraduate research assistant in [Prof. Kang Zhao](https://zhaokang.site/)'s group, working on graph machine learning especially on understanding the geometric properties of relational data and developing efficient, transferable models for cross-domain graph learning.  I am currently pursuing a dual B.Eng. degree, expected to graduate in June 2027.I am currently seeking Ph.D. opportunities.
 
 ---
 
