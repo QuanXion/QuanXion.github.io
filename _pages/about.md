@@ -26,7 +26,7 @@ I am currently pursuing a dual B.Eng. degree, expected to graduate in June 2027 
 | Degree | Institution | Major | Period | Notes |
 |--------|-------------|-------|--------|-------|
 | B.Eng. (Hons) | University of Glasgow (UoG) | Electronics and Electrical Engineering | 2023 – 2027 (Expected) |  |
-| B.Eng. | UESTC | Communication Engineering | 2023 – 2027 |  |
+| B.Eng. | UESTC | Communication Engineering | 2023 – 2027 (Expected) |  |
 
 ---
 
