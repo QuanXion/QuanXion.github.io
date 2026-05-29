@@ -24,13 +24,13 @@ repository               : "QuanXion/QuanXion.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Quanxin Wang"
+  pronouns         : "him/his"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Chengdu China"
+  employer         : 
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "tranciewang@gmail.com" 
 
   # Academic websites
   academia         : # URL
