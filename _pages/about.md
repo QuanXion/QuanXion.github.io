@@ -37,7 +37,6 @@ I am currently pursuing a dual B.Eng. degree, expected to graduate in June 2027 
 
 **SeqGFM** (Oct 2025 – May 2026): Late-fusion Transformer for cross-domain graph learning, decoupling topology and feature learning with per-node KV caches. Improved few-shot performance on 10 datasets and reduced pre-training time.
 
-**DyRMoPE** (May 2026 – Present): Riemannian Mixture-of-Experts framework for dynamic graph prompt learning.
 ---
 
 
