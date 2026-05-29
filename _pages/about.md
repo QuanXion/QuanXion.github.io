@@ -32,25 +32,12 @@ I am currently pursuing a dual B.Eng. degree, expected to graduate in June 2027 
 
 ## Research Experience
 
-**DyRMoPE: Riemannian Mixture-of-Experts for Dynamic Graph Prompt Learning**  
-*May 2026 – Present*
 
+**CurvBench** (Jan – May 2026): Benchmarking framework evaluating 18 GNN/GFM models across 14 datasets, identifying geometry-dependent performance bias in relational learning. [GitHub](https://github.com/QuanXion/CurvBench)
 
-**CurvBench: Curvature-Stratified Benchmark for Relational Learning**   
-*Jan 2026 – May 2026*
+**SeqGFM** (Oct 2025 – May 2026): Late-fusion Transformer for cross-domain graph learning, decoupling topology and feature learning with per-node KV caches. Improved few-shot performance on 10 datasets and reduced pre-training time.
 
-- Co-developed a unified benchmarking framework evaluating 18 models across Euclidean, hyperbolic, and spherical GNNs alongside emerging GFMs on 14 benchmark datasets.
-- Identified a fundamental bias in flat leaderboards, proving that relational learning performance is geometry-dependent rather than universally transferable.
-- Built a [reproducible GitHub repository](https://github.com/Ga1axy0051/CurvBench) supporting scalable benchmarking across 15 datasets classified by geometric curvature properties.
-
-
-**SeqGFM: Sequence-Centric Graph Foundation Models via Late Fusion**   
-*Oct 2025 – May 2026*
-
-- Designed a late-fusion dual-stream Transformer with per-node KV caches to decouple topology and feature learning, improving few-shot cross-domain performance over early-fusion GFMs on 10 datasets.
-- Contributed to a multi-hash structural tokenization mechanism with a shared MLP backbone, cutting pre-training time by ~30–45% and test time by ~60% relative to GNN-based competitors.
-
-
+**DyRMoPE** (May 2026 – Present): Riemannian Mixture-of-Experts framework for dynamic graph prompt learning.
 ---
 
 
