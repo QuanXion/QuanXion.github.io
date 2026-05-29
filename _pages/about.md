@@ -47,7 +47,7 @@ My research interests lie in **graph machine learning**, particularly **graph fo
 **SeqGFM: Sequence-Centric Graph Foundation Models via Late Fusion**   
 *Oct 2025 – May 2026*
 
-- Designed a late-fusion dual-stream Transformer with per-node KV caches to decouple topology and feature learning, reducing pre-training time by ~30–45% and improving few-shot cross-domain performance over early-fusion GFMs on 10 datasets.
+- Designed a late-fusion dual-stream Transformer with per-node KV caches to decouple topology and feature learning, improving few-shot cross-domain performance over early-fusion GFMs on 10 datasets.
 - Contributed to a multi-hash structural tokenization mechanism with a shared MLP backbone, cutting pre-training time by ~30–45% and test time by ~60% relative to GNN-based competitors.
 
 
