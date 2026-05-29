@@ -42,14 +42,14 @@ My research interests lie in **graph machine learning**, particularly **graph fo
 - Co-developed a unified benchmarking framework evaluating 18 models across Euclidean, hyperbolic, and spherical GNNs alongside emerging GFMs on 14 benchmark datasets.
 - Identified a fundamental bias in flat leaderboards, proving that relational learning performance is geometry-dependent rather than universally transferable.
 - Built a [reproducible GitHub repository](https://github.com/Ga1axy0051/CurvBench) supporting scalable benchmarking across 15 datasets classified by geometric curvature properties.
-- Manuscript submitted to NeurIPS 2026.
+
 
 **SeqGFM: Sequence-Centric Graph Foundation Models via Late Fusion**   
 *Oct 2025 – May 2026*
 
 - Designed a late-fusion dual-stream Transformer with per-node KV caches to decouple topology and feature learning, reducing pre-training time by ~30–45% and improving few-shot cross-domain performance over early-fusion GFMs on 10 datasets.
 - Contributed to a multi-hash structural tokenization mechanism with a shared MLP backbone, cutting pre-training time by ~30–45% and test time by ~60% relative to GNN-based competitors.
-- Manuscript submitted to NeurIPS 2026.
+
 
 ---
 
