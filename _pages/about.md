@@ -33,12 +33,10 @@ My research interests lie in **graph machine learning**, particularly **graph fo
 ## Research Experience
 
 **DyRMoPE: Riemannian Mixture-of-Experts for Dynamic Graph Prompt Learning**  
-*Research Assistant | Supervisor: Prof. Kang Zhao, UESTC*  
 *May 2026 – Present*
 
 
-**CurvBench: Curvature-Stratified Benchmark for Relational Learning**  
-*Research Assistant | Supervisor: Prof. Kang Zhao, UESTC*  
+**CurvBench: Curvature-Stratified Benchmark for Relational Learning**   
 *Jan 2026 – May 2026*
 
 - Co-developed a unified benchmarking framework evaluating 18 models across Euclidean, hyperbolic, and spherical GNNs alongside emerging GFMs on 14 benchmark datasets.
@@ -46,11 +44,11 @@ My research interests lie in **graph machine learning**, particularly **graph fo
 - Built a reproducible GitHub repository supporting scalable benchmarking across 15 datasets classified by geometric curvature properties.
 - Manuscript submitted to NeurIPS 2026.
 
-**SeqGFM: Sequence-Centric Graph Foundation Models via Late Fusion**  
-*Research Assistant | Supervisor: Prof. Kang Zhao, UESTC*  
+**SeqGFM: Sequence-Centric Graph Foundation Models via Late Fusion**   
 *Oct 2025 – May 2026*
 
--Designed a late-fusion dual-stream Transformer with per-node KV caches to decouple topology and feature learning, reducing pre-training time by ~30–45% and improving few-shot cross-domain performance over early-fusion GFMs on 10 datasets.
+- Designed a late-fusion dual-stream Transformer with per-node KV caches to decouple topology and feature learning, reducing pre-training time by ~30–45% and improving few-shot cross-domain performance over early-fusion GFMs on 10 datasets.
+- Contributed to a multi-hash structural tokenization mechanism with a shared MLP backbone, cutting pre-training time by ~30–45% and test time by ~60% relative to GNN-based competitors.
 - Manuscript submitted to NeurIPS 2026.
 
 ---
@@ -70,11 +68,10 @@ My research interests lie in **graph machine learning**, particularly **graph fo
 
 
 
-
 ---
 
 ## Contact
 
-- **Email:** [tranciewang@gmail.com/2960208W@student.gla.ac.uk](mailto:2960208W@student.gla.ac.uk)  
+- **Email:** [tranciewang@gmail.com](mailto:2960208W@student.gla.ac.uk)  
 - **GitHub:** [QuanXion](https://github.com/QuanXion)  
 - **Location:** Chengdu, China
