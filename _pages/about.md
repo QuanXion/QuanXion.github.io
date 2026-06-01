@@ -33,7 +33,7 @@ I am currently pursuing a dual B.Eng. degree, expected to graduate in June 2027 
 ## Research Experience
 
 
-**CurvBench** (Jan – May 2026): Benchmarking framework evaluating 18 GNN/GFM models across 14 datasets, identifying geometry-dependent performance bias in relational learning. [Page]([https://github.com/Ga1axy0051/CurvBench](https://sirbabbage.github.io/CurvBench_HOME/))
+**CurvBench** (Jan – May 2026): Benchmarking framework evaluating 18 GNN/GFM models across 14 datasets, identifying geometry-dependent performance bias in relational learning. [Page](https://sirbabbage.github.io/CurvBench_HOME/)
 
 **SeqGFM** (Oct 2025 – May 2026): Late-fusion Transformer for cross-domain graph learning, decoupling topology and feature learning with per-node KV caches. Improved few-shot performance on 10 datasets and reduced pre-training time.
 
