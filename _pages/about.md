@@ -33,7 +33,7 @@ I am currently pursuing a dual B.Eng. degree, expected to graduate in June 2027 
 ## Research Experience
 
 
-**CurvBench** (Jan – May 2026): Co-developed a curvature-stratified benchmark evaluating 18 models (GCNs, non-Euclidean GNNs, and GFMs) across 14 datasets. Implemented geometry-aware evaluation across near-zero, positive, and negative curvature regimes, validating that model preferences are regime-specific rather than universally transferable. Built a reproducible evaluation pipeline and open-source repository. [Project Page](https://sirbabbage.github.io/CurvBench_HOME/) [arXiv](https://arxiv.org/abs/2606.06397)
+**CurvBench** (Jan – May 2026): Co-developed a curvature-stratified benchmark evaluating 18 models (GNNs, non-Euclidean GNNs, and GFMs) across 14 datasets. Implemented geometry-aware evaluation across near-zero, positive, and negative curvature regimes, validating that model preferences are regime-specific rather than universally transferable. Built a reproducible evaluation pipeline and open-source repository. [Project Page](https://sirbabbage.github.io/CurvBench_HOME/) [arXiv](https://arxiv.org/abs/2606.06397)
 
 **SeqGFM** (Oct 2025 – May 2026): Late-fusion Transformer for cross-domain graph learning, decoupling topology and feature learning with per-node KV caches. Improved few-shot performance on 10 datasets and reduced pre-training time.
 
