@@ -55,8 +55,8 @@ I am currently pursuing a dual B.Eng. degree, expected to graduate in June 2027 
 ## Honors
 
 **Scholarships**
-- Innovation Excellence Scholarship (2024–2025), Oct 2025
-- Innovation Excellence Scholarship (2023–2024), Oct 2024
+- University Innovation Excellence Scholarship (2024–2025), Oct 2025
+- University Innovation Excellence Scholarship (2023–2024), Oct 2024
 - James-Watt Innovation First-class Scholarship (Top 4.7%), Oct 2024
 
 
