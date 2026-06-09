@@ -30,13 +30,32 @@ I am currently pursuing a dual B.Eng. degree, expected to graduate in June 2027 
 
 ---
 
+
+## Publications
+
+**Under Review**
+
+- **\[1\]** S. Wang, X. Wang, **Q. Wang**, B. Wu, B. Wang, S. Huang, B. Deng, H. Liu, R. Fang, Z. Xu, B. Wang, and Z. Kang, "The Post-GCN Decade Revisited: Curvature-Stratified Evaluation of Relational Learning," *submitted to NeurIPS 2026*.
+
+- **\[2\]** X. Xie, S. Wang, **Q. Wang**, X. Yu, R. Fang, B. Deng, E. Pan, Z. Kang, and Y. Fang, "Decoupling Structure and Features: Sequence-Centric Graph Foundation Models via Late Fusion," *submitted to NeurIPS 2026*.
+---
+
 ## Research Experience
+
+**DyRMoPE** (May 2026 – Present): Riemannian Mixture-of-Experts framework for dynamic graph prompt learning.
 
 **CurvBench** (Nov 2025 – May 2026): Co-developed a curvature-stratified benchmark evaluating 18 models (GNNs, non-Euclidean GNNs, and GFMs) across 14 datasets. Implemented geometry-aware evaluation across near-zero, positive, and negative curvature regimes, validating that model preferences are regime-specific rather than universally transferable. Built a reproducible evaluation pipeline and open-source repository. [PROJECT PAGE](https://sirbabbage.github.io/CurvBench_HOME/) [arXiv](https://arxiv.org/abs/2606.06397)
 
 **SeqGFM** (Oct 2025 – May 2026): Late-fusion Transformer for cross-domain graph learning, decoupling topology and feature learning with per-node KV caches. Improved few-shot performance on 10 datasets and reduced pre-training time.
 
 ---
+
+## Honors
+
+**Scholarships**
+- Innovation Excellence Scholarship (2024–2025), Oct 2025
+- Innovation Excellence Scholarship (2023–2024), Oct 2024
+- James-Watt Innovation First-class Scholarship (Top 4.7%), Oct 2024
 
 
 
