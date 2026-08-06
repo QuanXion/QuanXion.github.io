@@ -16,7 +16,7 @@ I am currently pursuing a dual B.Eng. degree, expected to graduate in June 2027 
 
 ## Research Interests
 
-- Graph Neural Networks (GNN) & Graph Representation Learning
+- Graph Neural Networks (GNN)/ Graph Learning
 - Graph Prompt Learning & Graph Foundation Models (GFMs)
 
 ---
