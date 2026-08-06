@@ -40,6 +40,9 @@ I am currently pursuing a dual B.Eng. degree, expected to graduate in June 2027 
 - **\[2\]** X. Xie, S. Wang, **Q. Wang**, X. Yu, R. Fang, B. Deng, E. Pan, Z. Kang, and Y. Fang, "Decoupling Structure and Features: Sequence-Centric Graph Foundation Models via Late Fusion," *submitted to NeurIPS 2026*.
 
 - **\[3\]** **Q. Wang**, X. Xie, B. Li, X. Yu, S. Wang, R. Fang, and Z. Kang, "Dynamic Graph Prompting via Topology-Routed Mixed-Curvature Experts," *submitted to AAAI 2027*.
+
+
+
 ---
 
 ## Research Experience
