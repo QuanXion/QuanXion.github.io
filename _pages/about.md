@@ -39,12 +39,12 @@ I am currently pursuing a dual B.Eng. degree, expected to graduate in June 2027 
 
 - **\[2\]** X. Xie, S. Wang, **Q. Wang**, X. Yu, R. Fang, B. Deng, E. Pan, Z. Kang, and Y. Fang, "Decoupling Structure and Features: Sequence-Centric Graph Foundation Models via Late Fusion," *submitted to NeurIPS 2026*.
 
-
+- **\[3\]** **Q. Wang**, X. Xie, B. Li, X. Yu, S. Wang, R. Fang, and Z. Kang, "Dynamic Graph Prompting via Topology-Routed Mixed-Curvature Experts," *submitted to AAAI 2027*.
 ---
 
 ## Research Experience
 
-**CurvPrompt** (Apr 2026 – Present): CurvPrompt fixes geometry under-adaptation in dynamic graph prompting by routing each node–time neighborhood to mixed-curvature Riemannian experts instead of adapting inside one fixed embedding space.
+**CurvPrompt** (Apr 2026 – Jul 2026): CurvPrompt fixes geometry under-adaptation in dynamic graph prompting by routing each node–time neighborhood to mixed-curvature Riemannian experts instead of adapting inside one fixed embedding space.
 
 **CurvBench** (Nov 2025 – May 2026): Co-developed a curvature-stratified benchmark evaluating 18 models (GNNs, non-Euclidean GNNs, and GFMs) across 14 datasets. Implemented geometry-aware evaluation across near-zero, positive, and negative curvature regimes, validating that model preferences are regime-specific rather than universally transferable. Built a reproducible evaluation pipeline and open-source repository. [PROJECT PAGE](https://sirbabbage.github.io/CurvBench_HOME/)   [arXiv](https://arxiv.org/abs/2606.06397)
 
