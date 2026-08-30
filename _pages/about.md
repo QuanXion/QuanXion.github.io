@@ -35,7 +35,7 @@ I am currently pursuing a dual B.Eng. degree, expected to graduate in June 2027 
 
 **Under Review**
 
-- [1] S. Wang, X. Wang, **Q. Wang**, B. Wu, B. Wang, S. Huang, B. Deng, H. Liu, R. Fang, Z. Xu, B. Wang, and Z. Kang, "The Post-GCN Decade Revisited: Curvature-Stratified Evaluation of Relational Learning," *submitted to NeurIPS 2026*. [arXiv](https://arxiv.org/abs/2606.06397)
+- [1] S. Wang, X. Wang, **Q. Wang**, B. Wu, B. Wang, S. Huang, B. Deng, H. Liu, R. Fang, Z. Xu, B. Wang, and Z. Kang, "The Post-GCN Decade Revisited: Curvature-Stratified Evaluation of Relational Learning," *submitted to NeurIPS 2026*. [arXiv](https://arxiv.org/abs/2606.06397) [PROJECT PAGE](https://sirbabbage.github.io/CurvBench_HOME/)
 
 - [2] X. Xie, S. Wang, **Q. Wang**, X. Yu, R. Fang, B. Deng, E. Pan, Z. Kang, and Y. Fang, "Decoupling Structure and Features: Sequence-Centric Graph Foundation Models via Late Fusion," *submitted to NeurIPS 2026*.
 
