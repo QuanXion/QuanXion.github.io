@@ -49,7 +49,11 @@ I am currently pursuing a dual B.Eng. degree, expected to graduate in June 2027 
 
 **Undergraduate Research Assistant** | Prof. Zhao Kang's Group, UESTC (Jun 2025 – Present)
 
+---
 
+## Teaching Experience
+
+**Teaching Assistant** | UESTC3036 - Artificial Intelligence & Machine Learning, UESTC × Glasgow (Fall 2026)
 ---
 
 ## Honors
