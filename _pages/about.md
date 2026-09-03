@@ -53,7 +53,8 @@ I am currently pursuing a dual B.Eng. degree, expected to graduate in June 2027 
 
 ## Teaching Experience
 
-**Teaching Assistant** | UESTC3036 - Artificial Intelligence & Machine Learning, UESTC × Glasgow (Fall 2026)
+**Teaching Assistant** ||UESTC3036 - Artificial Intelligence & Machine Learning, UESTC × Glasgow (Fall 2026)
+
 ---
 
 ## Honors
