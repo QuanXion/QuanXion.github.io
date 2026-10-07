@@ -23,10 +23,25 @@ I am currently pursuing a dual B.Eng. degree, expected to graduate in June 2027 
 
 ## Education
 
-| Degree | Institution | Major | Period | Notes |
-|--------|-------------|-------|--------|-------|
-| B.Eng. (Hons) | University of Glasgow (UoG) | Electronics and Electrical Engineering | 2023 – 2027 (Expected) |  |
-| B.Eng. | UESTC | Communication Engineering | 2023 – 2027 (Expected) |  |
+<div class="exp-card">
+  <div class="exp-item">
+    <img class="exp-logo" src="{{ site.baseurl }}/images/uog.png" alt="UoG">
+    <div class="exp-body">
+      <p class="title">University of Glasgow</p>
+      <p class="sub">B.Eng. (Hons), Electronics and Electrical Engineering</p>
+    </div>
+    <div class="exp-date">2023 – 2027</div>
+  </div>
+  <div class="exp-item">
+    <img class="exp-logo" src="{{ site.baseurl }}/images/uestc.png" alt="UESTC">
+    <div class="exp-body">
+      <p class="title">UESTC</p>
+      <p class="sub">B.Eng., Communication Engineering</p>
+      <p class="meta">Research with Prof. Zhao Kang</p>
+    </div>
+    <div class="exp-date">2023 – 2027</div>
+  </div>
+</div>
 
 ---
 
