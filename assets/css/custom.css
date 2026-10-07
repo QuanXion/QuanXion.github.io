@@ -14,9 +14,13 @@
 }
 .exp-item:last-child { border-bottom: none; }
 .exp-logo {
-  width: 48px; height: 48px;
+  width: 48px;
+  height: 48px;
   border-radius: 50%;
-  object-fit: cover;
+  object-fit: contain;   /* 不要 cover，避免裁切 */
+  background: #003865;   /* 格大深蓝底，可按校色调 */
+  padding: 6px;
+  box-sizing: border-box;
   flex-shrink: 0;
 }
 .exp-body { flex: 1; min-width: 0; }
