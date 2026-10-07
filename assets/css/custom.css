@@ -5,6 +5,7 @@
   padding: 8px 20px;
   margin: 12px 0 24px;
 }
+
 .exp-item {
   display: flex;
   align-items: center;
@@ -12,18 +13,45 @@
   padding: 16px 0;
   border-bottom: 1px solid #eee;
 }
-.exp-item:last-child { border-bottom: none; }
+
+.exp-item:last-child {
+  border-bottom: none;
+}
+
 .exp-logo {
   width: 48px;
   height: 48px;
   border-radius: 50%;
-  object-fit: contain;   /* 不要 cover，避免裁切 */
-  background: #003865;   /* 格大深蓝底，可按校色调 */
-  padding: 6px;
-  box-sizing: border-box;
+  object-fit: cover;
   flex-shrink: 0;
 }
-.exp-body { flex: 1; min-width: 0; }
-.exp-body .title { font-weight: 700; margin: 0 0 2px; }
-.exp-body .sub, .exp-body .meta { margin: 0; color: #666; font-size: 0.95em; }
-.exp-date { color: #888; white-space: nowrap; margin-left: auto; }
+
+.exp-logo.glasgow {
+  object-fit: contain;
+  background: #003865;
+  padding: 6px;
+  box-sizing: border-box;
+}
+
+.exp-body {
+  flex: 1;
+  min-width: 0;
+}
+
+.exp-body .title {
+  font-weight: 700;
+  margin: 0 0 2px;
+}
+
+.exp-body .sub,
+.exp-body .meta {
+  margin: 0;
+  color: #666;
+  font-size: 0.95em;
+}
+
+.exp-date {
+  color: #888;
+  white-space: nowrap;
+  margin-left: auto;
+}
