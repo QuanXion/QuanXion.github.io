@@ -1,0 +1,25 @@
+.exp-card {
+  background: #fff;
+  border: 1px solid #e8e8e8;
+  border-radius: 12px;
+  padding: 8px 20px;
+  margin: 12px 0 24px;
+}
+.exp-item {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 16px 0;
+  border-bottom: 1px solid #eee;
+}
+.exp-item:last-child { border-bottom: none; }
+.exp-logo {
+  width: 48px; height: 48px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+.exp-body { flex: 1; min-width: 0; }
+.exp-body .title { font-weight: 700; margin: 0 0 2px; }
+.exp-body .sub, .exp-body .meta { margin: 0; color: #666; font-size: 0.95em; }
+.exp-date { color: #888; white-space: nowrap; margin-left: auto; }
